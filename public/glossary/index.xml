@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>单词 on 雨铃</title>
+    <link>http://localhost:1313/glossary/</link>
+    <description>Recent content in 单词 on 雨铃</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Apr 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aa</title>
+      <link>http://localhost:1313/glossary/a/</link>
+      <pubDate>Sun, 06 Apr 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/glossary/a/</guid>
+      <description>&lt;p&gt;&lt;code&gt;11111111111111111111111&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;aaaaa&#34;&gt;aaaaa&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>bb</title>
+      <link>http://localhost:1313/glossary/b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/b/</guid>
+      <description>&lt;h3 id=&#34;bbbb&#34;&gt;bbbb&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>cc</title>
+      <link>http://localhost:1313/glossary/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/c/</guid>
+      <description>&lt;h2 id=&#34;cccc&#34;&gt;cccc&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

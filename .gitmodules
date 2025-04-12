@@ -1,0 +1,6 @@
+[submodule "themes/rusty-typewriter"]
+	path = themes/rusty-typewriter
+	url = git@github.com:weibk/rusty-typewriter.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
